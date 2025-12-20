@@ -44,5 +44,3 @@
 
 - **课程**：EE323 数字信号处理
 - **学校**：南方科技大学（SUSTech）
-
-项目完整代码和详细文档请访问：https://github.com/MajorDionysus/DSP_MiniProject
